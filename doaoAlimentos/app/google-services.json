@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "105615303361",
+    "project_id": "doacaoalimentos-4298e",
+    "storage_bucket": "doacaoalimentos-4298e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105615303361:android:c0ebc016130b04d18f6a40",
+        "android_client_info": {
+          "package_name": "com.example.doaoalimentos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmEsK3WeSvvTVr_9kJ44dQZjLLeLbfbes"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

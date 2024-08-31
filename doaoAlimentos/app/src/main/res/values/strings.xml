@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Doação de Alimentos</string>
+    <string name="titulo_categoria">Categoria</string>
+    <string name="titulo_cesta_basica">Cesta Básica</string>
+    <string name="titulo_cesta_verde">Cesta Verde</string>
+    <string name="titulo_itens_limpeza">Itens de Limpeza</string>
+    <string name="titulo_produtos_nao_pereciveis">Produtos Não Perecíveis</string>
+    <string name="title_activity_main2">Segunda Tela</string>
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="botao_adicionar">Adicionar</string>
+    <string name="botao_remover">Remover</string>
+    <string name="msg_quantidade_adicionada">Quantidade adicionada</string>
+    <string name="msg_bem_vindo">Bem-vindo ao Doação de Alimentos</string>
+    <string name="msg_selecione_categoria">Selecione uma categoria para começar</string>
+    <string name="ok">OK</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="default_web_client_id">105615303361-sgg784anusnsjvui8kfmqeqvo94kidus.apps.googleusercontent.com</string>
+</resources>
